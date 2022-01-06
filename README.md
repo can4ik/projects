@@ -1,2 +1,2 @@
 # projects
-My DS &amp; DA project
+My DS &amp; DA projects
